@@ -8,7 +8,7 @@ My core foundation is **Python, JavaScript, HTML, CSS, and Git/GitHub**. Through
 
 I believe projects are where concepts become real. My focus is on understanding what I build, debugging what breaks, and continuously improving how I write and structure code.
 
----
+----
 
 ## 🚀 What I Build
 
@@ -18,7 +18,7 @@ I believe projects are where concepts become real. My focus is on understanding 
 - 📡 IoT monitoring systems
 - 📊 Data-driven dashboards
 
----
+----
 
 ## 🛠️ Technical Foundation
 
@@ -40,7 +40,7 @@ I believe projects are where concepts become real. My focus is on understanding 
 
 > My core skills represent my current foundation. The technologies above also reflect tools I've worked with while building projects.
 
----
+----
 
 ## 💻 Featured Projects
 
@@ -56,7 +56,7 @@ A full-stack AI chatbot application built with a React frontend and Node.js/Expr
 
 **Tech:** React · Node.js · Express · REST API · LLM API
 
----
+----
 
 ### 🧅 IoT-Based Onion Storage Monitoring System
 
@@ -73,7 +73,7 @@ A real-time monitoring system designed to track environmental conditions in onio
 
 **Tech:** ESP32 · Python · Django · Next.js · REST API · IoT · MongoDB · ThingSpeak
 
----
+----
 
 ## 📚 Currently Exploring
 
@@ -84,7 +84,7 @@ A real-time monitoring system designed to track environmental conditions in onio
 - Writing cleaner and more maintainable code
 - Turning project experience into real-world engineering skills
 
----
+----
 
 ## 📊 GitHub Activity
 
@@ -97,7 +97,7 @@ A real-time monitoring system designed to track environmental conditions in onio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogaraj14-web&hide_border=true" width="100%" />
 </p>
 
----
+----
 
 ## 🤝 Let's Connect
 
@@ -110,7 +110,7 @@ A real-time monitoring system designed to track environmental conditions in onio
   </a>
 </p>
 
----
+----
 
 <p align="center">
   <i>Build → Break → Debug → Learn → Build Better.</i>
