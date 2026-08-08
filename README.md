@@ -88,10 +88,6 @@ A real-time monitoring system designed to track environmental conditions in onio
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogaraj14-web&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaraj14-web&layout=compact&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img
